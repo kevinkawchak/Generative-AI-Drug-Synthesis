@@ -1,2 +1,2 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. <br>
-Notebooks results were added to the [Time Cost Efficiency PDF](https://www.chemicalqdevice.com/time-cost-efficiency-resnet-quantum-tl-tl-models), Based on the 'Quantum Transfer Learning' [PennyLane model](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning).
+Notebooks results added to the [Time Cost Efficiency PDF](https://www.chemicalqdevice.com/time-cost-efficiency-resnet-quantum-tl-tl-models), Based on the 'Quantum Transfer Learning' [PennyLane model](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning).
