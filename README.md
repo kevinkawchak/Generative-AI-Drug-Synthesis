@@ -1,4 +1,4 @@
-# Medical-Quantum-Machine-Learning
+# Medical Quantum Machine Learning
 CEO Kevin Kawchak is a leader of the Medical Quantum Machine Learning software industry. He has tested a Minimum Viable Product with 10 Iterations to obtain improving Quantum ML Neuroimage analysis results. Additional Quantum prototypings illustrated the performance differences of algorithms from multiple papers by multiclass classification. QML model Costs and Efficiencies were also calculated across two models, two datasets, and four different compute methods that revealed areas of improvement needed for the industry.
 All available PennyLane QML demos were modified or improved in a recent study; and a Qiskit model was enhanced to obtain 100% training and testing accuracies. Kevin Kawchak has provided step-by-step instructions on how three quantum computing languages can be incorporated into separate quantum inspired workflows, with coding examples. Three guides detailing QML literature history, Quantum embeddings, and Quantum algorithms for the Medical industry were also shared.
 
