@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. [Time Cost Efficiency PDF](https://www.chemicalqdevice.com/time-cost-efficiency-resnet-quantum-tl-tl-models)
