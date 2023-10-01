@@ -1,4 +1,5 @@
-The following are modifications or improvements to original notebooks prior to 8-31-23. <br>
+The following are modifications or improvements to original notebooks prior to August 31, 2023. <br>
+All PennyLane Python Quantum Machine Learning Demos 8/31 [Seminar.](https://www.chemicalqdevice.com/all-pennylane-python-quantum-machine-learning-demos-seminar) <br>
 Please refer to the authors' models for the published primary work.<br>
 [Equivariant Graph Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_equivariant_graph_embedding),<br>
 [Time Series Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_univariate_qvr), <br>
@@ -13,7 +14,7 @@ Please refer to the authors' models for the published primary work.<br>
 [Unitary Designs Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_unitary_designs),<br>
 [Quantum Kernels, Classification Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_kernels_module),<br>
 [Haar Measure Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_haar_measure),<br>
-[Learn QNNs, Speed Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_learning2learn),<br>
+[Learn QNNs, Speed Original PennyLane Model](https://pennylane.ai/qml/demos/learning2learn),<br>
 [Kernel Scikit-Learn Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_kernel_based_training),<br>
 [Keras Layers Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_qnn_module_tf),<br>
 [Torch Layers Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_qnn_module_torch),<br>
