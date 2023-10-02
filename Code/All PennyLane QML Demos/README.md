@@ -1,5 +1,5 @@
 The following are modifications or improvements to original notebooks prior to August 31, 2023. <br>
-All PennyLane Python Quantum Machine Learning Demos 8/31 [Seminar.](https://www.chemicalqdevice.com/all-pennylane-python-quantum-machine-learning-demos-seminar) <br>
+All PennyLane Python Quantum Machine Learning Demos 8/31 [Seminar](https://www.chemicalqdevice.com/all-pennylane-python-quantum-machine-learning-demos-seminar). <br>
 Please refer to the authors' models for the published primary work.<br>
 [Equivariant Graph Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_equivariant_graph_embedding),<br>
 [Time Series Original PennyLane Model](https://pennylane.ai/qml/demos/tutorial_univariate_qvr), <br>
