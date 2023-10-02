@@ -1,0 +1,2 @@
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. A copy of the algorithm results table is attached. Runtimes for some algorithms were slow due to 1st epoch initialization times. 
+Based on the 'Quantum Transfer Learning' [PennyLane model](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning). 4 Class Brain Tumor Dataset is on [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
