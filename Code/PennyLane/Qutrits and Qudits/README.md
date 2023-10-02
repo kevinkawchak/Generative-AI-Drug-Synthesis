@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. Based on the 'Qutrits and quantum algorithms' [PennyLane Model](https://pennylane.ai/qml/demos/tutorial_qutrits_bernstein_vazirani).
