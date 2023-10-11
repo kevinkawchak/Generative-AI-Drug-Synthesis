@@ -3,7 +3,7 @@ Quantum machine learning is expected to be the principle application of quantum 
 
 The resources in this repository represent a collection of medical and quantum machine learning algorithm prototypings, parameter studies, and efficiency tests using GPUs and CPUs.
 
-The goal is to implement a new variational quantum algorithm architecture with more trainable parameters into existing models for better performance, analogous to previous classical deep learning advancements.
+The goal is to implement a new variational quantum algorithm architecture with more trainable parameters into models for better performance, analogous to previous classical deep learning advancements.
 
 References:
 1) Wikipedia contributors. (2023c). Quantum machine learning. Wikipedia. https://en.m.wikipedia.org/wiki/Quantum_machine_learning
