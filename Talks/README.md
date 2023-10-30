@@ -1,4 +1,4 @@
-### Please note: Some talks are located in directories specific to industries such as FDA or Qiskit.
+### Please note: Some talks are located in directories specific to organizations such as FDA or IBM Qiskit.
 
 ## Medical Quantum Machine Learning
 Quantum machine learning is expected to be the principle application of quantum computing. Exact expectation values, pure quantum states, and efficient differentiation methods allow for quantum algorithm implementations into existing Healthcare ML workflows. 
