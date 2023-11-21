@@ -1,0 +1,1 @@
+[Kernel-based training parameter study](https://github.com/kevinkawchak/Medical-Quantum-Machine-Learning/blob/main/Code/PennyLane/Quantum%20Parameters%20II/Kernel-based%20training%20parameter%20study%2011-16-23.pdf) PDF 11/16/23.
