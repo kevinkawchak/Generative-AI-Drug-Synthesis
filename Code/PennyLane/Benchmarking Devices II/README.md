@@ -1,1 +1,2 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+Notebooks results are available in the [New Benchmarking Quantum Machine Learning Devices](https://www.chemicalqdevice.com/advanced-benchmarkingefficiency-pennylane-qmlqiml) PDF, Based on the 'An equivariant graph embedding' [PennyLane Model](https://pennylane.ai/qml/demos/tutorial_equivariant_graph_embedding). 
