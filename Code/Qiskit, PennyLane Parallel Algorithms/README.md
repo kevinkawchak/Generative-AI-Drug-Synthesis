@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The [Seminar and Discussion](https://www.chemicalqdevice.com/advanced-pytorch-keras-deep-learning-with-qmlqiml) are available online.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The [Seminar and PDF](https://www.chemicalqdevice.com/advanced-pytorch-keras-deep-learning-with-qmlqiml) are available online.
