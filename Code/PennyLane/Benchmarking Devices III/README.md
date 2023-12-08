@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+Note: The algorithm used in the Keras model was more complex. Run times between platforms are not comparable. The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
