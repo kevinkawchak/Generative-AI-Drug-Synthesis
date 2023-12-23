@@ -1,0 +1,1 @@
+[How to Conduct Medical R&D with QiML Algorithms](https://drive.google.com/file/d/1WZju3UoXMDA_ixn_Ofzm03BXgb_YfhfG/view?usp=drive_link) PDF, [Mobile Version](https://www.chemicalqdevice.com/how-to-conduct-medical-rd-with-qiml-algorithms) 12/21/23. 
