@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The 12/21/23 [PDF](https://drive.google.com/file/d/1WZju3UoXMDA_ixn_Ofzm03BXgb_YfhfG/view?usp=sharing), [Seminar](https://www.youtube.com/watch?v=AsmeYGqpPEs), and [Mobile](https://www.chemicalqdevice.com/how-to-conduct-medical-rd-with-qiml-algorithms) Version are available online.
