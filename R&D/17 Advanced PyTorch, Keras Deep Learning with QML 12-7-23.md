@@ -1,0 +1,1 @@
+[Advanced PyTorch, Keras Deep Learning with QML/QiML](https://drive.google.com/file/d/1haT2_R3Ghkb1QlCCRA9WNx7yYCzfj-PB/view?usp=drive_link) PDF, [Mobile Version](https://www.chemicalqdevice.com/advanced-pytorch-keras-deep-learning-with-qmlqiml) 12/7/23. 
