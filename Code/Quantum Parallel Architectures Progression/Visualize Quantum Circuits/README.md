@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The 12/28/23 [PDF](https://drive.google.com/file/d/1r9OXisEwftfEmf2UaVmfRaC4s4S9YRbM/view?usp=sharing), [Seminar](https://www.youtube.com/watch?v=inpcapRKELE), and [Mobile](https://www.chemicalqdevice.com/quantum-algorithms-parallel-architectures-new-results) Version are available online.
