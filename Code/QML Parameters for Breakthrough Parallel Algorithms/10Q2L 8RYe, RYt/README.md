@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The 01/04/24 [PDF](https://drive.google.com/file/d/1OgLv4hWnK4t_3JyGj4nViFLsfhT3SC5h/view?usp=sharing), [Seminar](https://www.youtube.com/watch?v=SEFmYdBQUPw), and [Mobile](https://www.chemicalqdevice.com/qml-parameters-for-breakthrough-parallel-algorithms) Version are available online.
