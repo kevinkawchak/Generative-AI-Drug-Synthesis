@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The 01/11/24 [PDF](https://drive.google.com/file/d/1oU3jp9bSKiK1KMVby3YkAulKo7AY30x2/view?usp=sharing), [Seminar](https://www.youtube.com/watch?v=ZFADek7Z3Ak), and [Mobile](https://www.chemicalqdevice.com/efficiency-metrics-single-vs-parallel-qml-algorithms) Version are available online.
