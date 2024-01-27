@@ -1,1 +1,1 @@
-The following are modifications or improvements to original notebooks. 
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. The 01/25/24 [PDF](https://drive.google.com/file/d/1H3jbDMKK0OCkjnU33hVyZ8brayYZEVZt/view?usp=sharing) and [Seminar](https://www.youtube.com/watch?v=Jw6I6Fa5ug8) are available online.
