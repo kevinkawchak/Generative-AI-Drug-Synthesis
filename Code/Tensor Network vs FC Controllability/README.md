@@ -1,4 +1,4 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. [Results PDF](https://drive.google.com/file/d/17VOLEIQVQphzjZEzxkx_Tg5erPgsSeDF/view?usp=sharing)
 
 Controllability in machine learning refers to the degree to which a system's behavior can be directed or influenced by adjusting model variables. It is desirable to achieve predictable performance improvements in ways that are consistent with the problem being solved. To verify controllability between two models in practice, a Google TensorNetwork demo was modified for this second iteration.
 
