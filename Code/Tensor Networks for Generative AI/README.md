@@ -10,8 +10,8 @@ TeNPy "is a Python library for the simulation of strongly correlated quantum sys
 
 A main advantage of TeNPy is ease of accessibility with other Python ML platforms such as PyTorch and TensorFlow. At low-moderate run times, Julia-based tensor network software has some speed advantage, as can be expected when using Python. [14] Since its inception in 2018, TeNPy has grown from basic approaches of MPS and MPO to being utilized by leaders in condensed matter physics and quantum information theory. This also includes developments to improve algorithms and detailed demos for increased Tensor Network adoption in High Dimensional Generative AI. [15] Two demos based on ITensor and TeNPy are attached with code. [16-18]
 
-[01] https://lnkd.in/gdD5KSMD
-[02] https://lnkd.in/gycBJdg6
+[01] https://lnkd.in/gXJWFNCU
+[02] https://lnkd.in/g3Ciyyxs
 [03] https://lnkd.in/gceBgBTS
 [04] https://lnkd.in/gFpCPqgW 
 [05] https://lnkd.in/gcjEy6yh 
