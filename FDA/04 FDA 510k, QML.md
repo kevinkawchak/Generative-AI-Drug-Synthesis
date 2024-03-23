@@ -9,7 +9,7 @@ A New ChemicalQDevice Stage I, II, III, IV Strategy was also detailed.
 
 hashtag#endalzheimers, hashtag#endalz, hashtag#qml, hashtag#neuroimaging, hashtag#fda, hashtag#regulation, hashtag#standards, ISO - International Organization for Standardization, IEC (International Electrotechnical Commission), National Electrical Manufacturers Association (NEMA), ASTM International, ANSI Compliance, FDA
 
-Sincerely,
-CEO Kevin Kawchak
-ChemicalQDevice
-November 17th, 2022
+Sincerely, <br>
+CEO Kevin Kawchak <br>
+ChemicalQDevice <br>
+November 17th, 2022 <br>
