@@ -14,7 +14,7 @@ Tripathi, S., et al. (2022) Advancements in Neuroradiology via Artificial Intell
 ► "Neuroradiology is significantly showing the broad impact in field of Artificial intelligence research and Machine learning."
 Article: [2](https://researchlakejournals.com/index.php/IJBIC/article/view/159)
 
-Sincerely,
-CEO Kevin Kawchak
-ChemicalQDevice
-September 25th, 2022
+Sincerely, <br>
+CEO Kevin Kawchak <br> 
+ChemicalQDevice <br>
+September 25th, 2022 <br>
