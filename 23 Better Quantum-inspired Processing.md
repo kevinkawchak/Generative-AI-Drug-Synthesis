@@ -1,1 +1,3 @@
 [Appreciably Better Quantum-inspired Processing vs. the Rest of the Field](https://www.chemicalqdevice.com/appreciably-better-quantum-inspired-processing-vs-field) PDF 02/12/24.
+
+Quantum-inspired algorithms will be the primary quantum method to enhance artificial intelligence applications for many years to come. The technology allows for Quantum-inspired Machine Learning (QiML) and traditional algorithms to be executed on a readily accessible and affordable laptop for small experiments, limited by RAM. The 2024 performance gains in Literature have resulted in quantum-inspired being faster and more scalable in noiseless environments vs. quantum computers or existing classical methods as shown below. hashtag#performance
