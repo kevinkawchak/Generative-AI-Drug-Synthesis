@@ -12,7 +12,7 @@ Several 2023-2026 preliminary timelines regarding Stage I, II, and III products 
 
 Enjoy the 2023 New Year's Celebrations. 
 
---
-CEO Kevin Kawchak
-ChemicalQDevice
-December 30th, 2022
+-- <br>
+CEO Kevin Kawchak <br>
+ChemicalQDevice <br>
+December 30th, 2022 <br>
