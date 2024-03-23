@@ -13,8 +13,8 @@ Attached are the ChemicalQDevice Startup Tables. Presentations and tutorials cor
 
 Mission Statement: "To Advance Neuroradiology Utilizing Quantum Artificial Intelligence.”
 
---
-CEO Kevin Kawchak
-ChemicalQDevice
-Neuroradiology/Quantum
-July 18th, 2023
+-- <br>
+CEO Kevin Kawchak <br>
+ChemicalQDevice <br>
+Neuroradiology/Quantum <br>
+July 18th, 2023 <br>
