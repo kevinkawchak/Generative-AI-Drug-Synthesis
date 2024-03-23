@@ -10,7 +10,7 @@ In recent years, academic papers and industry partners have used quantum computi
 
 Slides are available online: [1](https://www.chemicalqdevice.com/multimodal-neuroimaging-and-qml-for-alzheimers)
 
---
+-- <br> 
 Sincerely, <br> 
 CEO Kevin Kawchak <br>
 ChemicalQDevice <br>
