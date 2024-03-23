@@ -2,6 +2,7 @@
 
 Synopsis: An early paper to learn Quantum ML basics, as well as some of the common
 quantum models being researched. <br>
+
 1) Emerging Quantum ML Models <br>
 A) Quantum Support Vector Machine <br> 
 a) Evaluation of an inner product is better on a quantum computer <br> 
