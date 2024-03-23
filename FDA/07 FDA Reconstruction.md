@@ -20,21 +20,19 @@ Quantum computing continues to improve regarding the number and quality of quant
 
 References are available in the comments below. Have a productive rest of your day. 
 
-Smile at end!
-
 3/3/23 "FDA Radiology Reconstruction and Segmentation Algorithms, Quantum Potential" References <br>
-[1] https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices <br>
-[2] https://www.chemicalqdevice.com/fda-aiml-approvals-basis-for-qnn-neuroimaging <br>
-[3] https://www.chemicalqdevice.com/brain-disorders-and-quantum-computing <br>
-[4] https://arxiv.org/abs/2004.02036 <br>
-[5] https://ionq.com/best-practices <br>
-[6] https://developer.nvidia.com/qoda <br>
-[7] https://link.springer.com/article/10.1007/s10489-021-03108-5 <br>
-[8] https://link.springer.com/article/10.1007/s10489-021-02688-6 <br>
-[9] https://www.nature.com/articles/s41567-019-0648-8 <br>
-[10] https://arxiv.org/abs/2210.09728 <br>
-[11] https://arxiv.org/abs/2202.11204 <br>
-[12] https://arxiv.org/abs/2301.08167 <br>
-[13] https://www.nature.com/articles/s41467-022-32550-3 <br>
-[14] https://www.iso.org/standard/77097.html <br>
-[15] https://www.iso.org/standard/77309.html <br>
+[01](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices) FDA <br>
+[02](https://www.chemicalqdevice.com/fda-aiml-approvals-basis-for-qnn-neuroimaging) Chemicalqdevice <br>
+[03](https://www.chemicalqdevice.com/brain-disorders-and-quantum-computing) Chemicalqdevice <br>
+[04](https://arxiv.org/abs/2004.02036) arXiv <br>
+[05](https://ionq.com/best-practices) IonQ <br>
+[06](https://developer.nvidia.com/qoda) Nvidia <br>
+[07](https://link.springer.com/article/10.1007/s10489-021-03108-5 ) Springer <br>
+[08](https://link.springer.com/article/10.1007/s10489-021-02688-6) Springer <br>
+[09](https://www.nature.com/articles/s41567-019-0648-8) Nature <br>
+[10](https://arxiv.org/abs/2210.09728) arXiv <br>
+[11](https://arxiv.org/abs/2202.11204) arXiv <br>
+[12](https://arxiv.org/abs/2301.08167) arXiv <br>
+[13](https://www.nature.com/articles/s41467-022-32550-3) Nature <br>
+[14](https://www.iso.org/standard/77097.html) ISO <br>
+[15](https://www.iso.org/standard/77309.html) ISO <br>
