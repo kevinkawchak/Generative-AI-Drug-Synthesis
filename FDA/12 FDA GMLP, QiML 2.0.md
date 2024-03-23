@@ -1,1 +1,7 @@
 [FDA Good Machine Learning Practice Guidelines; and Practical QiML 2.0](https://www.chemicalqdevice.com/fda-gmlp-guidelines-and-practical-qiml-2-0) Event Seminar and PDF 02/29/24.
+
+Tensor networks offer a complementary set of tools for interpretability, and efficient representation of complex systems that will be valuable for upcoming medical applications. This includes structured data processing, quantum physics simulations, and combinatorial optimizations; whereas neural networks excel in unstructured data, large-scale datasets, and end-to-end learning.
+
+Specific tree tensor networks correspond to existing convolutional neural networks; with CNNs being proven safe and effective for use with patient data analysis. Also, tensor networks are being used effectively to compress Large Language Models, as well as simulate thousands of noiseless quantum bits. In addition, a hybrid tensor network/neural network was shown to be more effective than using tensor networks or neural networks alone. (slide 09)
+
+Many leading quantum algorithms continue to lack incentive for running on a future quantum computer due to algorithm dequantization, and effective software techniques can also be used to run higher qubit circuits with partitions. With quantum-inspired machine learning 2.0 being approximative, efficient, and effective for classical computer use, its innovation will continue to outpace any other quantum machine learning method, mainly QiML 1.0 and quantum hardware approaches. (slide 15) The seminar is available through the startup channel. 
