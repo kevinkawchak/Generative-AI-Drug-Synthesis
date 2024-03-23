@@ -6,7 +6,7 @@ A copy of this week's presentation is attached; please see this video link for t
 
 Next week's presentation will likely be on how quantum technologies can make hashtag#AI, hashtag#prediction, and hashtag#neuroimaging better. For additional information on hashtag#medicalimaging processing steps please see: [4](https://www.analog.com/en/resources/technical-articles/medical-image-processing-from-formation-to-interpretation.html)
 
-Sincerely,
-CEO Kevin Kawchak
-ChemicalQDevice
-September 22nd, 2022
+Sincerely, <br>
+CEO Kevin Kawchak <br> 
+ChemicalQDevice <br>
+September 22nd, 2022 <br>
