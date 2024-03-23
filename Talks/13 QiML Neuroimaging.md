@@ -1,1 +1,5 @@
 [Classification & QML Neuroimaging for Alzheimer’s Prediction](https://www.chemicalqdevice.com/classification-qml-neuroimaging-for-alzheimers-prediction) PDF + Discussion 12/8/22.
+
+Classification and QML Neuroimaging for Alzheimer's Prediction
+
+There is an increase in higher quality quantum machine learning articles as 2022 has progressed. Xanadu's Pennylane has been used to obtain better sensitivity, specificity, and precision for binary classification. Also, a new PVM (Projection-valued measure) has been developed for Multiclass classification. Lastly, 3D Scalable Quantum Convolutional Neural Networks (sQCNN-3D) are expected to play a leading role in point cloud data classification. (Slide deck attached)
