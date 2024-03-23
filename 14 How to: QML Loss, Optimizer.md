@@ -4,5 +4,4 @@ Quantum machine learning uses loss functions and optimizer algorithms similar to
 
 Here, the importance of gradient descent and adaptive methods are detailed in regards to navigating loss landscapes. Examples from Manning, DeepLearning AI, and ChemicalQDevice highlight differences in classical or hybrid model approaches. Recommendations to select correct loss functions and optimizers are provided for major platforms; which are available through PyTorch, Keras, or NumPy. 
 
-Discussion: https://lnkd.in/ggyuF5Pt
-GitHub study: https://lnkd.in/gyUe7-MA 
+[Discussion](https://www.youtube.com/watch?v=7-NbAxJenS0), [GitHub study](https://github.com/kevinkawchak/Medical-Quantum-Machine-Learning/tree/main/Code/PennyLane/Data-Reuploading/Learning%20Rate%20Studies).
