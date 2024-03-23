@@ -1,1 +1,7 @@
 [How to Conduct Medical R&D with QiML Algorithms](https://drive.google.com/file/d/1WZju3UoXMDA_ixn_Ofzm03BXgb_YfhfG/view?usp=drive_link) PDF, [Mobile Version](https://www.chemicalqdevice.com/how-to-conduct-medical-rd-with-qiml-algorithms) 12/21/23. 
+
+Medical developers have access to several quantum machine learning resources to become proficient in the technology. PennyLane's quantum transfer learning demo allows users to process medical data with conventional deep learning techniques combined with trainable quantum circuits. In addition, thousands of multi-class images can be used to make direct comparisons against a separate Stanford transfer learning model as shown on slide 07. 
+
+In addition, PyTorch can be used with Qiskit for Classification or Generative AI purposes. Perhaps the most promising processing method to incorporate into classification models is to utilize many smaller quantum algorithms in parallel in the place of large quantum circuits to significantly reduce RAM and Time requirements, while allowing access to high performances that are challenging for single algorithms, slides 14, 19, 20.
+
+Note: Quantum algorithms are most commonly described by a quantum circuit. A quantum circuit is a model for quantum computation, where the steps to solve the problem are quantum gates performed on one or more qubits. Source: [Quantum Inspire](https://www.quantum-inspire.com/kbase/what-is-a-quantum-algorithm/).
