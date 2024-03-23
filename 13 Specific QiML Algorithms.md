@@ -2,5 +2,4 @@
 
 QiML algorithms have been utilized for several Medical R&D Applications - which includes Covid-19 Chest X-Ray Images, Rheumatoid Arthritis EHR Data, along with Dementia Images and Brain Tumor Images. 
 
-Here, summaries of articles utilizing Quantum-Inspired Machine Learning for the above diseases are provided (17 slides). More detail is available in the recording: https://lnkd.in/gE3ivkzV
-Your document has finished loading
+Here, summaries of articles utilizing Quantum-Inspired Machine Learning for the above diseases are provided (17 slides). More detail is available in the [recording](https://www.youtube.com/watch?v=xp1yrE1OqeI).
