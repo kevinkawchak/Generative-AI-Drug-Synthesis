@@ -8,11 +8,6 @@ FDA Medical Device submissions require adherence to ISO and IEC Standards. (2) I
 
 The December 2022 White House Law now requires Federal Agencies to implement technologies for quantum defence. Also in December, The White House has announced (2) Individuals whose background is in Quantum and Imaging. 5, 6
 
-Sincerely,
-CEO Kevin Kawchak
-ChemicalQDevice
-January 21st, 2023
-
 "..The underlying motivation was to build a long-term company whose final goal was to better the lives of people, to alleviate so much pain in this world." - Unicorn Founder, Osman Kibar. 7
 
 References 
@@ -23,3 +18,8 @@ References
 [5](https://www.congress.gov/bill/117th-congress/house-bill/7535)
 [6](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/president-biden-announces-key-appointments-to-boards-and-commissions-14/) 
 [7](https://www.forbes.com/sites/matthewherper/2016/04/13/the-god-pill/?utm_source=FBPAGE&utm_medium=social&utm_content=846229152&utm_campaign=sprinklrForbesMainFB&sh=11e26d7b5757)
+
+Sincerely, <br>
+CEO Kevin Kawchak <br>
+ChemicalQDevice <br>
+January 21st, 2023 <br>
