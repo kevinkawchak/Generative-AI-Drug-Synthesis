@@ -1,5 +1,5 @@
 ## Medical Quantum Machine Learning
-Quantum-inspired machine learning will be the principle application of quantum computing for AI applications. Exact expectation values, pure quantum states, and efficient differentiation methods allow for quantum algorithm implementations into existing Healthcare ML workflows.
+Quantum-inspired machine learning is the principle application of quantum computing for AI applications. Exact expectation values, pure quantum states, and efficient differentiation methods allow for quantum algorithm implementations into existing Healthcare ML workflows.
 
 This leading research and development collection represents medical and quantum machine learning algorithm prototypings, parameter studies, and efficiency tests using GPUs and CPUs.
 
