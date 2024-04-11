@@ -1,13 +1,5 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
 
-# Protein Generator:
-A protein generator has been further developed based on a Hayes, J. Hugging Face ProtGPT2 text-generation pipeline with assistance from an AssemblyAI tutorial and ChatGPT3.5 prompts. Notebook: https://lnkd.in/gxyMD9wC
-
-References:
-1) [Hayes, J.](https://medium.com/labs-notebook/large-language-models-for-drug-discovery-7ddfc005e0bb) 
-2) [AssemblyAI](https://www.youtube.com/watch?v=QEaBAZQCtwE&t=4s) 
-3) [ChatGPT3.5](https://chat.openai.com/)
-
 # Protein Generator II:
 A second protein generator has been further developed based on a Hugging Face nferruz/ProtGPT2 example of generating de novo proteins in an unsupervised 'zero-shot' fashion. Development of the generator was also assisted with ChatGPT3.5 coding prompts. The ProtGPT2 model was trained on the protein database UniRef50 - which allowed for the patterns of internal representations of proteins to be learned. 
 
@@ -17,3 +9,11 @@ References:
 1) [Hugging Face](https://huggingface.co/nferruz/ProtGPT2) 
 2) [ChatGPT3.5](https://chat.openai.com/)
 3) [Hayes, J.](https://medium.com/labs-notebook/large-language-models-for-drug-discovery-7ddfc005e0bb)
+
+# Protein Generator:
+A protein generator has been further developed based on a Hayes, J. Hugging Face ProtGPT2 text-generation pipeline with assistance from an AssemblyAI tutorial and ChatGPT3.5 prompts. Notebook: https://lnkd.in/gxyMD9wC
+
+References:
+1) [Hayes, J.](https://medium.com/labs-notebook/large-language-models-for-drug-discovery-7ddfc005e0bb) 
+2) [AssemblyAI](https://www.youtube.com/watch?v=QEaBAZQCtwE&t=4s) 
+3) [ChatGPT3.5](https://chat.openai.com/)
