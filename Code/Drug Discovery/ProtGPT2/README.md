@@ -11,7 +11,7 @@ References:
 3) [Hayes, J.](https://medium.com/labs-notebook/large-language-models-for-drug-discovery-7ddfc005e0bb)
 
 # Protein Generator:
-A protein generator has been further developed based on a Hayes, J. Hugging Face ProtGPT2 text-generation pipeline with assistance from an AssemblyAI tutorial and ChatGPT3.5 prompts. Notebook: https://lnkd.in/gxyMD9wC
+A protein generator has been further developed based on a Hayes, J. Hugging Face ProtGPT2 text-generation pipeline with assistance from an AssemblyAI tutorial and ChatGPT3.5 prompts. 
 
 References:
 1) [Hayes, J.](https://medium.com/labs-notebook/large-language-models-for-drug-discovery-7ddfc005e0bb) 
