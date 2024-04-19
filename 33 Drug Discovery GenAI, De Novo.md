@@ -8,7 +8,7 @@ End-to-end generative models aimed at creating proteins with a specific property
 Authors include unfolding energy, mechanical strength with detailed unfolding force-separation curves. 
 Original pull force data for AI training comes from single-molecule technology such as atomic force microscopy, AFM. 
 
-A movie of the author's generated proteins being stretched is available through a literature [Download](https://www.science.org/doi/suppl/10.1126/sciadv.adl4000/suppl_file/sciadv.adl4000_movies_s1_to_s8.zip)
+A movie of the author's generated proteins being stretched is available through a literature [Download](https://www.science.org/doi/suppl/10.1126/sciadv.adl4000/suppl_file/sciadv.adl4000_movies_s1_to_s8.zip).
 
 “Here, we report a generative model that predicts protein designs to meet complex nonlinear mechanical property-design objectives. Our model leverages deep knowledge on protein sequences from a pretrained protein language model and maps mechanical unfolding responses to create proteins.”
 - Ni, B., et al., Science Advances, February 07, 2024. 
