@@ -1,6 +1,6 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
 
-Total Run Time: Protein language diffusion model pLDM.pt 4.14GB file takes minutes to load; with other installations
+Conclusions: Total Run Time: Protein language diffusion model pLDM.pt 4.14GB file takes minutes to load; with other installations
 NVIDIA V100 High Ram GPU average of 8 protein generations = 10.71 seconds each 
 NVIDIA A100 40GB GPU average of 8 protein generations = 8.87 seconds each 
 
