@@ -6,7 +6,7 @@ NVIDIA A100 40GB GPU average of 8 protein generations = 8.87 seconds each
 
 Generative AI Cost Efficiency: NVIDIA V100 High Ram GPU average of 8 protein generations = 0.9528
 Generative AI Cost Efficiency: NVIDIA A100 40GB GPU average of 8 protein generations = 0.4777
-Equation: 1/(0.2*Time average*Hourly gpu cost); V100 = 1/(0.2*10.71*0.49), A100 = 1/(0.2*8.87*1.18) 
+Equation: 1/(0.2 * Time average * Hourly gpu cost); V100 = 1/(0.2 * 10.71 * 0.49), A100 = 1/(0.2 * 8.87 * 1.18) 
 
 Summary: Several minutes were needed for loading and installing packages prior to protein generations
 V100 High Ram GPU for protein generations was $0.49/hr, only 20% slower, and twice as cost efficient
