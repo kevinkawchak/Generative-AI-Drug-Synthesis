@@ -1,4 +1,6 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+[Cover Image](https://drive.google.com/file/d/1lYHv7r_2CxuT4DQjd-3lkKfNZiJi_SDk/view?usp=sharing) <br>
+
 The Meta-Llama-3-8B-Instruct Large Language Model was fine-tuned using the alpaca-cleaned dataset and varying LoRA values. LoRA experiments were run to affect model size and performance, with the top model being uploaded to Hugging Face as a 'Text generation' model: kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1. (a) 
 
 Open-source Llama 3 was released April 18, 2024, and it's selection was based on several highly functional existing Llama 2 Medical applications, an increase in Llama 3 downloads by developers, and Meta's growing infrastructure to support Llama improvements.  (b-e)
@@ -7,7 +9,7 @@ Low-Rank Adaptation, also known as LoRA, makes fine-tuning LLMs easier by reduci
 
 A recent Unsloth Llama 3 Colab Notebook, a Llama 3 discussion, and clarifications from Hugging Chat and ChatGPT allowed for the completion of the finetuned of the model using an NVIDIA 40GB A100. The remainder of the notebook experiments are avaialable on GitHub. (g-i)
 
-The yahma/alpaca-cleaned dataset used is an update to resolve issues regarding the original 2023 Stanford alpaca instruction dataset. Text generations answering several questions were of high quality and comparable to other leading GenAI platforms. Answers to the following questions are available on GitHub notebooks such as 'What is a famous university in San Francisco bay area?', and 'What are the DNA bases?' (j) A look ahead at datasets for Drug Discovery Generative AI will be covered on Thursday 04/25. 
+The yahma/alpaca-cleaned dataset used is an update to resolve issues regarding the original 2023 Stanford alpaca instruction dataset. Text generations answering several questions were of high quality and comparable to other leading GenAI platforms. Answers to the following questions are available on GitHub notebooks such as 'What is a famous university in San Francisco bay area?', and 'What are the DNA bases?' (j) A look ahead at datasets for Drug Discovery Generative AI will be covered on Thursday 04/25/2024. 
 
 a) https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1A1 <br>
 b) https://ollama.com/library/medllama2 <br>
