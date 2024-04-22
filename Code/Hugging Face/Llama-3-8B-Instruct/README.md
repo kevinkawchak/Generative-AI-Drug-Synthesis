@@ -11,7 +11,7 @@ A recent Unsloth Llama 3 Colab Notebook, a Llama 3 discussion, and clarification
 
 The yahma/alpaca-cleaned dataset used is an update to resolve issues regarding the original 2023 Stanford alpaca instruction dataset. Text generations answering several questions were of high quality and comparable to other leading GenAI platforms. Answers to the following questions are available on GitHub notebooks such as 'What is a famous university in San Francisco bay area?', and 'What are the DNA bases?' (j) A look ahead at datasets for Drug Discovery Generative AI will be covered on Thursday 04/25/2024. 
 
-a) https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1A1 <br>
+a) https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1 <br>
 b) https://ollama.com/library/medllama2 <br>
 c) https://github.com/AIAnytime/Llama2-Medical-Chatbot <br>
 d) https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2 <br>
