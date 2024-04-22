@@ -3,7 +3,7 @@ The following are modifications or improvements to original notebooks. Please re
 
 The Meta-Llama-3-8B-Instruct Large Language Model was fine-tuned using the alpaca-cleaned dataset and varying LoRA values. LoRA experiments were run to affect model size and performance, with the top model being uploaded to Hugging Face as a 'Text generation' model: kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1. (a) 
 
-Open-source Llama 3 was released April 18, 2024, and it's selection was based on several highly functional existing Llama 2 Medical applications, an increase in Llama 3 downloads by developers, and Meta's growing infrastructure to support Llama improvements.  (b-e)
+Open-source Llama 3 8 Billion parameter model was released April 18, 2024, and it's selection was based on several highly functional existing Llama 2 Medical applications, an increase in Llama 3 downloads by developers, and Meta's growing infrastructure to support Llama improvements. (b-e)
 
 Low-Rank Adaptation, also known as LoRA, makes fine-tuning LLMs easier by reducing the number of trainable parameters to produce lightweight and efficient models. LoRA was utilized by modifying matrix rank 'r' and alpha values. Run times were similar between experiments, however loss tended to favor lower values of rank, which corresponded to smaller model sizes. The most effective 'R1' model mentioned above was trained on a rank of 1 and alpha of 5, which performed better by loss than a rank of up to 5. Further testing of the model uploaded to Hugging Face is relevant to determine what benefits the finetuning has over the base Llama 3 8B Instruct model. (f) 
 
