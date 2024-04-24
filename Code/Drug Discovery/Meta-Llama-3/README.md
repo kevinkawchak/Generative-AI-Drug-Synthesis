@@ -3,7 +3,7 @@ The following are modifications or improvements to original notebooks. Please re
 
 A 4-bit quantization of Meta-Llama-3-8B-Instruct was used to reduce training memory requirements when fine-tuning on the zjunlp/Mol-Instructions dataset. (1-2) In addition, the minimum LoRA rank value was utilized to reduce the overall size of created models. In specific, the molecule-oriented instructions description guided molecule design was implemented to answer general questions and general biochemistry questions. General questions were answered with high accuracy, while biochemistry related questions returned 'SELFIES' structures but with limited accuracy. 
 
-The notebook featured Torch and Hugging Face libraries using the Unsloth llama-3-8b-Instruct-bnb-4bit quantization model. Training loss decreased steadily from 1.97 to 0.73 over 60 steps. Additional testing regarding the appropriate level of compression or hyperparameter adjustments for accurate SELFIES chemical structures outputs is relevant, as shown in the GitHub notebook (3). A 16-bit and reduced 4-bit size were uploaded to Hugging Face. (4-5)
+The notebook featured Torch and Hugging Face libraries using the Unsloth llama-3-8b-Instruct-bnb-4bit quantization model. Training loss decreased steadily from 1.97 to 0.73 over 60 steps. Additional testing regarding the appropriate level of compression or hyperparameter adjustments for accurate SELFIES chemical structures outputs is relevant, as shown in the GitHub notebook for research purposes (3). A 16-bit and reduced 4-bit size were uploaded to Hugging Face. (4-5)
 
 References:
 1) unsloth: https://huggingface.co/unsloth/llama-3-8b-Instruct-bnb-4bit
