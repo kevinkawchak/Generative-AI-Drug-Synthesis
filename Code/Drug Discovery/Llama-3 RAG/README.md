@@ -1,6 +1,6 @@
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
 
-## Meta-Llama-3-70B-Instruct
+## Meta-Llama-3-70B-Instruct RAG
 [Cover Image](https://drive.google.com/file/d/1MNSNh9yLPzqHShuTctOUgTf1uj18uDOg/view?usp=sharing)
 
 The results indicate that using Retrieval-Augmented Generation (RAG) is important for answering questions from a specific public dataset, even when Meta AI had knowledge of the dataset. Although modern pre-trained LLMs use RAG techniques, it will likely also be necessary to point to specific local or online datasets to answer questions at high accuracy.
@@ -36,7 +36,7 @@ Llama 3 70B, META LLAMA 3 COMMUNITY LICENSE: https://huggingface.co/meta-llama/M
 Meta AI, META LLAMA 3 COMMUNITY LICENSE: meta.ai <br>
 Sakil786, GPL-3.0 license: https://github.com/Sakil786/RAG_using_Llama-3/blob/main/RAG_using_Llama_3.ipynb <br>
 
-## Meta-Llama-3-8B-Instruct 
+## Meta-Llama-3-8B-Instruct RAG
 [Cover Image](https://drive.google.com/file/d/1kXghQNdIzucYKEWj7i7BHxwojexr3ONd/view?usp=sharing)
 
 According to NVIDIA: 'Retrieval-Augmented Generation', or RAG, is a technique for enhancing the accuracy and reliability of generative AI models using facts from a knowledge base. Large language models such as Llama 3 can respond to a wide variety of human queries, but RAG embeddings can deliver final authoritative answers combined with the power to cite sources. (1)
