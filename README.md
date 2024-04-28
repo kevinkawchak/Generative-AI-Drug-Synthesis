@@ -1,6 +1,6 @@
 ## Medical Quantum Machine Learning
-Quantum-inspired machine learning is the principle application of quantum computing for AI applications. Exact expectation values, pure quantum states, and efficient differentiation methods allow for quantum algorithm implementations into existing Healthcare ML workflows.
+The Practical Medical Generative Artificial Intelligence Software Public Repository for Cancer Drug Discovery is on GitHub.
 
-This leading research and development collection represents medical and quantum machine learning algorithm prototypings, parameter studies, and efficiency tests using GPUs and CPUs.
+The research [summary](https://drive.google.com/file/d/195V9Mxt1Mn8a0UFbVanBe_LGGNYFmO7T/view?usp=drive_link) is a look ahead using effective quantum-inspired machine learning approaches to accelerate GenAI. 
 
-The goal is to implement tensor network architectures into new and existing Large Language Models (LLMs) for better Precision Health Generative AI performance.
+The goal is to implement effective architectures and methodologies into Large Language Models (LLMs) for enhanced Drug Discovery Generative AI performance.
