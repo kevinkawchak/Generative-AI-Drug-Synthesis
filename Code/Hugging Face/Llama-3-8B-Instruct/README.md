@@ -21,3 +21,5 @@ g) https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scr
 h) https://www.youtube.com/watch?v=aQmoog_s8HE&t=1s <br>
 i) https://github.com/kevinkawchak/Medical-Quantum-Machine-Learning/tree/main/Code/Hugging%20Face/Llama-3-8B-Instruct <br>
 j) https://huggingface.co/datasets/yahma/alpaca-cleaned <br>
+<br>
+[META LLAMA 3 COMMUNITY LICENSE AGREEMENT](https://llama.meta.com/llama3/license/) <br>
