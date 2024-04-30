@@ -1,4 +1,4 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
+The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. Built with Meta Llama 3.
 [Cover Image](https://drive.google.com/file/d/1J-spZMzLlPxkqfMrPxvtMZiD2_hfcGyr/view?usp=sharing) <br>
 
 A 4-bit quantization of Meta-Llama-3-8B-Instruct was used to reduce training memory requirements when fine-tuning on the zjunlp/Mol-Instructions dataset. (1-2) In addition, the minimum LoRA rank value was utilized to reduce the overall size of created models. In specific, the molecule-oriented instructions description guided molecule design was implemented to answer general questions and general biochemistry questions. General questions were answered with high accuracy, while biochemistry related questions returned 'SELFIES' structures but with limited accuracy. 
