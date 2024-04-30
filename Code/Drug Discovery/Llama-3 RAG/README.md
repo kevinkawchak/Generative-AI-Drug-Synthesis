@@ -54,7 +54,7 @@ A more specific question was answered correctly regarding the open-source 'Warni
 Question: What happened to the cleveland.data file?
 Answer: The cleveland.data file was "messed up" when it was loaded on a different node, and the file processed.cleveland.data is a cleaned up version of the original file. The original file appears to be corrupted and the author will need to obtain a new copy from the donor.
 
-The above results show the power of using RAG to answer very specific questions, as the model does not need fine-tuned, although RAG can be used in conjunction with a fine-tuned model; or used with larger LLMs due to no GPU training requirements. Future work will focus on further optimizing RAG methods with other LLM techniques when necessary, on Drug Discovery related datasets. 
+The above results show the power of using RAG to answer very specific questions, as the model does not need fine-tuned, although RAG can be used in conjunction with a fine-tuned model; or used with larger LLMs due to no GPU training requirements. Future work will focus on further optimizing RAG methods with other LLM techniques when necessary, on Drug Discovery related datasets. [META LLAMA 3 COMMUNITY LICENSE AGREEMENT](https://llama.meta.com/llama3/license/)
 
 1) NVIDIA, 2023: https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
 2) meta-llama/Meta-Llama-3-8B-Instruct, META LLAMA 3 COMMUNITY LICENSE: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
