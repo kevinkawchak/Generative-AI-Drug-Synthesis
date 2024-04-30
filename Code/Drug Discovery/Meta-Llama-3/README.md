@@ -14,20 +14,20 @@ References:
 4) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol16
 5) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol04 <br>
 
-@inproceedings{fang2023mol,
-  author       = {Yin Fang and
-                  Xiaozhuan Liang and
-                  Ningyu Zhang and
-                  Kangwei Liu and
-                  Rui Huang and
-                  Zhuo Chen and
-                  Xiaohui Fan and
-                  Huajun Chen},
-  title        = {Mol-Instructions: {A} Large-Scale Biomolecular Instruction Dataset
-                  for Large Language Models},
-  booktitle    = {{ICLR}},
-  publisher    = {OpenReview.net},
-  year         = {2024},
-  url          = {https://openreview.net/pdf?id=Tlsdsb6l9n}
-} <br>
+@inproceedings{fang2023mol, <br>
+  author       = {Yin Fang and<br>
+                  Xiaozhuan Liang and<br>
+                  Ningyu Zhang and<br>
+                  Kangwei Liu and<br>
+                  Rui Huang and<br>
+                  Zhuo Chen and<br>
+                  Xiaohui Fan and<br>
+                  Huajun Chen},<br>
+  title        = {Mol-Instructions: {A} Large-Scale Biomolecular Instruction Dataset<br>
+                  for Large Language Models},<br>
+  booktitle    = {{ICLR}},<br>
+  publisher    = {OpenReview.net},<br>
+  year         = {2024},<br>
+  url          = {https://openreview.net/pdf?id=Tlsdsb6l9n}} <br>
+<br>
 [META LLAMA 3 COMMUNITY LICENSE AGREEMENT](https://llama.meta.com/llama3/license/) <br>
