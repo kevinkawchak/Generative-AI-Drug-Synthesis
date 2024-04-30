@@ -12,7 +12,7 @@ References:
 2) zjunlp, cc-by-4.0: https://huggingface.co/datasets/zjunlp/Mol-Instructions
 3) github: https://github.com/kevinkawchak/Medical-Quantum-Machine-Learning/blob/main/Code/Drug%20Discovery/Meta-Llama-3/Meta-Llama-3-8B-Instruct-Mol.ipynb
 4) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol16
-5) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol04
+5) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol04 <br>
 
 @inproceedings{fang2023mol,
   author       = {Yin Fang and
@@ -29,4 +29,5 @@ References:
   publisher    = {OpenReview.net},
   year         = {2024},
   url          = {https://openreview.net/pdf?id=Tlsdsb6l9n}
-}
+} <br>
+[META LLAMA 3 COMMUNITY LICENSE AGREEMENT](https://llama.meta.com/llama3/license/) <br>
