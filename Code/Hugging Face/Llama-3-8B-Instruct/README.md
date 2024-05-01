@@ -1,4 +1,4 @@
-The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. Built with Meta Llama 3.
+## The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. Built with Meta Llama 3.
 [Cover Image](https://drive.google.com/file/d/1lYHv7r_2CxuT4DQjd-3lkKfNZiJi_SDk/view?usp=sharing) <br>
 
 The Meta-Llama-3-8B-Instruct Large Language Model was fine-tuned using the alpaca-cleaned dataset and varying LoRA values. LoRA experiments were run to affect model size and performance, with the top model being uploaded to Hugging Face as a 'Text generation' model: kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-R1. (a) 
