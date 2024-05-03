@@ -1,3 +1,5 @@
+## Meta Llama 3 Fine-tuning, RAG
+
 [Meta Llama 3 Fine-tuning, RAG, and Prompt Engineering for Drug Discovery](https://www.chemicalqdevice.com/meta-llama-3-fine-tuning-rag) Event Seminar and PDF 04/25/24.
 
 Achieving the very best outputs based on most relevant specific data typically takes additional techniques beyond cutting-edge pre-trained models such as Llama 3. Two of these techniques referred to as fine-tuning and retrieval-augmented generation (RAG) can be used together with LLMs or separately alongside an LLM, depending on the objectives. 
