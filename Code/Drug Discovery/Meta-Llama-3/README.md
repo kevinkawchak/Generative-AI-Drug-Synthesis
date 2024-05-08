@@ -42,26 +42,6 @@ References:
 4) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol16
 5) hugging face: https://huggingface.co/kevinkawchak/Meta-Llama-3-8B-Instruct-LoRA-Mol04
 
-@inproceedings{fang2023mol, <br>
-  author       = {Yin Fang and<br>
-                  Xiaozhuan Liang and<br>
-                  Ningyu Zhang and<br>
-                  Kangwei Liu and<br>
-                  Rui Huang and<br>
-                  Zhuo Chen and<br>
-                  Xiaohui Fan and<br>
-                  Huajun Chen},<br>
-  title        = {Mol-Instructions: {A} Large-Scale Biomolecular Instruction Dataset<br>
-                  for Large Language Models},<br>
-  booktitle    = {{ICLR}},<br>
-  publisher    = {OpenReview.net},<br>
-  year         = {2024},<br>
-  url          = {https://openreview.net/pdf?id=Tlsdsb6l9n}}<br>
-
-
-
-
-
 ## Primary Study: The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work. Built with Meta Llama 3.
 [Cover Image](https://drive.google.com/file/d/1J-spZMzLlPxkqfMrPxvtMZiD2_hfcGyr/view?usp=sharing) <br>
 
