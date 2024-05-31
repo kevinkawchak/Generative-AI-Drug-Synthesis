@@ -1,0 +1,11 @@
+## Local Generative AI Model Frameworks for Different Stages of Drug Discovery
+
+Many options exist to run LLMs/LMMs locally from downloaded models. Ollama assists to get up and running with large language models locally. GPT4All is a free-to-use, locally running, privacy-aware chatbot with no GPU or internet required. PrivateGPT is a production-ready AI project that allows you to ask questions about your documents. With LlaMA C++, Apple silicon is a first-class citizen - optimized via ARM NEON, Accelerate and Metal frameworks. Hugging Face Transformers provides thousands of pretrained models for text, vision, and audio. LangChain combines with Ollama, PrivateGPT, GPT4All, LlaMA C++, and others to run local LLMs effectively.
+
+Local LLM/LMM Development on laptops will be used to aid the future of Mobile Device Software. Greater than 8 GB of RAM is typically required for 7B models, 16 GB for 13B models, and 32 GB to run 33B models to do Inference. Consideration for IDEs: Increase max TS server memory allotment for larger LLM inferencing to avoid kernel crashes. Local GenAI Benefits >> Privacy and Responsiveness; Considerations << CPU/GPU/RAM requirements, physical storage. Platforms above may favor development in local MacOS environment for iOS/iPhone GenAI.
+
+“We just need to know what we've been allowed to change or see, interfaces abstract away the implementation. Now, while the UI or user interface is made for the user of the application, the API is made for “Imagine asking Apple’s Siri to show you an old photo taken from a child’s second birthday, or summarizing lengthy emails and writing drafts. Then consider Siri learning your schedule, preferences, even your personality, so it can better communicate with you throughout the day.”
+
+[Apple] “is widely expected to partner with ChatGPT maker OpenAI ahead of its annual Worldwide Developers Conference in June, where it will likely show off its first batch of AI tools coming to the iOS software. 
+
+Samantha Murphy Kelly, [CNN Business](https://www.cnn.com/2024/05/28/tech/ai-iphone/index.html). “Here’s how new AI tech could change the iPhone” May 28, 2024. 
