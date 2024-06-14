@@ -12,6 +12,8 @@ C++ is known for its: performance, reliability, flexibility, and complexity <br>
 Generative AI Inference with C++ allows for fast and controllable answers to user questions  <br>
 Python is more for training/fine-tuning models, which can be converted to C++ for speed  <br>
 Many IDEs across Operating Systems utilize C++: XCode, CLion, VS Code, and more  <br>
-PyTorch dedicates a significant portion of C++ code in its own Platform  <br>
- 
-#cpp
+PyTorch dedicates a significant portion of C++ code in its own Platform  <br> 
+#cpp <br>
+
+June 13th 2024 <br>
+Kevin Kawchak
