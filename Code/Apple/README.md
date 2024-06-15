@@ -1,4 +1,4 @@
-[Download](https://drive.google.com/file/d/1E3sVgJ4cbhulpWvq_FO0pqgZkwhnMtLu/view?usp=sharing), [Results](https://drive.google.com/file/d/1s0imJ0zidk5-hraT46y8u4jnUby_oukk/view?usp=sharing), [Discussion](https://www.youtube.com/watch?v=PFOk-qJ9nr0&t=2s). WWDC June 10.
+### [Download](https://drive.google.com/file/d/1E3sVgJ4cbhulpWvq_FO0pqgZkwhnMtLu/view?usp=sharing), [Results](https://drive.google.com/file/d/1s0imJ0zidk5-hraT46y8u4jnUby_oukk/view?usp=sharing), [Discussion](https://www.youtube.com/watch?v=PFOk-qJ9nr0&t=2s). WWDC June 10.
 
 ## 5 Guiding Principles for Apple On-Device Generative AI:
 Guiding Principle #1: Workflow: MacBook Pro for training and finetuning models, iPad and iPhone for inferencing and RAG. <br>
