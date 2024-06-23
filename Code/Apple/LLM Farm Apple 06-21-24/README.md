@@ -1,6 +1,6 @@
 ## [Preceding Generative AI Study](https://github.com/kevinkawchak/Medical-Quantum-Machine-Learning/tree/main/Code/Generative%20AI%20Live)
 
-The Hugging Face 4 bit model was downloaded to three devices and inferenced using the LLM Farm app utilizing Apple Metal with the following Prompt: What is the structure of adenine?
+Current study: The Hugging Face 4 bit model was downloaded to three devices and inferenced using the LLM Farm app utilizing Apple Metal with the following Prompt: What is the structure of adenine?
 
 Speed: <br>
 iPhone 15 Pro 8GB: 2.47 tokens/sec <br>
