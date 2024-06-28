@@ -1,0 +1,11 @@
+## Live Python Demos - Generative Artificial Intelligence
+
+Hosting Generative AI Models on laptops is a reality for many developers in 2024. In specific, both Large Language Models (LLMs) and Large Multimodal Models (LMMs) were served on a MacBook Pro m3 max with 48GB. Users from across the country were permitted to upload an image with a prompt which were then sent to the laptop server for processing followed by a response. Although images were processed correctly on the server at 130+ tokens/second, issues were experienced in completing some requests over the internet. 
+
+Featured in the discussion was utilization of the Hugging Chat platform, and line by line coding using Hugging Face’s Blip and Gradio UI. In addition, a LangChain agent executor demo was run with responses evaluated using LangSmith, and costs determined through OpenAI’s Platform and Colab. [Live demos recording](https://youtu.be/4L9XIMSWz0w)
+
+Open WebUI setup in conjunction with Ollama, Docker, and Portainer was utilized to make several open-source generative ai models accessible locally. (1) In specific, the output quality and speed of 3 LLMs while accessing 2 local RAG documents were compared by a 4th evaluator LLM productively at speeds close to 50 tokens/sec, see recording for details. 3 Multimodal models were also compared against each other using different image uploads with speed favoring moondream 1.8b, and generation quality with llava 7b and llava 13b.  
+
+deepseek-coder-v2:16b and codestral 22.2B were asked to produce code regarding three different python generative ai tasks. Responses typically favored code featuring older models, however deepseek-coder’s response to use Hugging Face’s pipeline to generate high quality photorealistic images is still relevant today. Lastly, the WebUI application was accessed by a second user account on an iPhone 15 Pro on a different cellular network live to successfully send an image of Stanford Medicine students standing in a formal photograph with the prompt “Describe” to the laptop server, and the phone received an accurate generated response.
+
+(1) NetworkChuck. (2024, May 3). host ALL your AI locally [Video]. YouTube. https://www.youtube.com/watch?v=Wjrdr0NU4Sk
