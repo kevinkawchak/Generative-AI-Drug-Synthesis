@@ -1,6 +1,6 @@
 ## Live Coding: GenAI Multimodal, RAG, RAPTOR, Agent, and Finetuning
 
-Here, a total of 6 Generative AI demos were run and posted online: RAG, RAPTOR, Agent, and Finetuning Colab notebooks, as well as Multimodal image prompts given to OpenAI ChatGPT 4o and Google Gemini. [Discussion](https://youtu.be/qc5_MzJG_QY)
+Here, a total of 6 Generative AI demos were run and posted online: RAG, RAPTOR, Agent, and Finetuning Colab notebooks, as well as Multimodal image prompts given to OpenAI ChatGPT 4o and Google Gemini. [Recorded Discussion](https://youtu.be/qc5_MzJG_QY)
 
 Generations from notebooks typically reflected their desired purpose, with Finetuning being applied with a biochemistry structures dataset and tested with general and scientific questions, and then pushed to Hugging Face as downloadable 16 bit and 4 bit GGUF versions during the live discussion. Hugging Face Models: [Model 1](https://huggingface.co/kevinkawchak/gradientai-Llama-3-8B-Instruct-Gradient-1048k-16Molecule), [Model 2](https://huggingface.co/kevinkawchak/gradientai-Llama-3-8B-Instruct-Gradient-1048k-Molecule-q4-k-m-GGUF)
 
