@@ -1,4 +1,4 @@
-## Live Python Demos - Generative Artificial Intelligence
+## Live Python Demos - Generative Artificial Intelligence, June 27, 2024
 
 Hosting Generative AI Models on laptops is a reality for many developers in 2024. In specific, both Large Language Models (LLMs) and Large Multimodal Models (LMMs) were served on a MacBook Pro m3 max with 48GB. Users from across the country were permitted to upload an image with a prompt which were then sent to the laptop server for processing followed by a response. Although images were processed correctly on the server at 130+ tokens/second, issues were experienced in completing some requests over the internet. 
 
