@@ -1,4 +1,4 @@
-## Open WebUI, Ollama, Docker, Portainer GenAI Demos - LMM and LLM
+## Open WebUI, Ollama, Docker, Portainer GenAI Demos - LMM and LLM [PDF](https://drive.google.com/file/d/1y10kKqd2UWVGvzcergm9CA5bpPXo_T23/view?usp=sharing).
 
 To improve commercial software quality, feedback was collected from U.S. users regarding two demos using Open WebUI and Ollama GenAI Models.  
 
