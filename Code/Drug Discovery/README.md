@@ -2,7 +2,7 @@
 
 Here, (2) 2024 Generative AI reviews for drug discovery and molecular design were summarized. This was followed by a 2024 paper featuring a transcriptional signatures generator variational autoencoder for a pancreatic cancer application. The authors’ model was found to be faster than several others tested.
 
-Hugging Face pipeline experiments were run several times as a rapid GenAI screening tool. In specific, over 30 pipelines were combined from several internet sources into a single Python notebook as a fast way to conceptualize types of advanced machine learning inference methods.
+Hugging Face pipeline experiments were run as a rapid GenAI screening tool. In specific, over 30 pipelines were combined from several internet sources into a single Python notebook as a fast way to conceptualize types of advanced machine learning inference methods.
 
 A Llama.cpp, TensorRT, and LibTorch table depicts the ways to use C++ and other techniques to improve the speed of Generative AI inference times, shown on slide 14.
 
