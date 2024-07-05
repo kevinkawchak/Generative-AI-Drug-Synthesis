@@ -1,7 +1,7 @@
 ## How to Develop APIs for Generative AI Drug Discovery Production
 
 Here, 3 Large Language Model to Application Programming Interface methods are detailed. OPTION 1 features a Conda environment, an OpenLLM OpenAI-compatible API endpoint, and TII's Open Source Falcon model to deploy an API using terminal and Python scripts. OPTION 2 uses OpenLLM's getting started Jupyter Notebook and Google Colab to serve a Llama model. OPTION 3 utilizes the new LangServe Chat Playground to yield an API accessible by link - which is based on a LangChain template and GitHub repo creation. OPTIONs 1 and 3 are accompanied by seminars, and all three options feature the use of NVIDIA GPUs. 
-[Event Seminar and PDF](https://www.chemicalqdevice.com/how-to-develop-apis-for-genai) 05/23/24.
+[Event Seminar and PDF 23May24](https://www.chemicalqdevice.com/how-to-develop-apis-for-genai).
 
 References: <br>
 04) Matthew Berman. (2023, June 22). API for Open-Source models Easily build with ANY Open-Source LLM [Video]. YouTube. https://www.youtube.com/watch?v=8nZZ2oQhx4E <br>
