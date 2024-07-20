@@ -1,4 +1,4 @@
-[Google TensorFlow Quantum and IBM Qiskit QML Software Stacks](https://drive.google.com/file/d/1gR-JlNDo2WR5kDK_SW5mvgwd8ZNT-rxo/view?usp=share_link) PDF 5/1/23.
+[Google TensorFlow and IBM Software Stacks](https://drive.google.com/file/d/1gR-JlNDo2WR5kDK_SW5mvgwd8ZNT-rxo/view?usp=share_link) PDF 5/1/23.
 
 Quantum machine learning is showing potential to bring additional power for classical models "that have become more
 sophisticated and expensive to train" over time. Qml software stacks for Google TensorFlow Quantum (TFQ) and IBM Qiskit
