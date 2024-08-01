@@ -22,4 +22,6 @@ Llama 3.1 405B and Nemotron 4 340B large language models were also used to
 generate responses on how to make the total synthesis supplementary methods faster or
 less expensive than used in original papers, and were judged by a Cohere for AI model.
 
+#### Additional [PDF Download](https://drive.google.com/file/d/1WHHZfwdp6X4tDb-uRdHJuO5BOzLy5hhM/view?usp=sharing), [Video Discussion](https://youtu.be/VK4dWeeKKKw)
+
 August 01, 2024
