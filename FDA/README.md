@@ -1,2 +1,2 @@
-## Drug Discovery Generative AI
-The Generative Artificial Intelligence Software Repository for Drug Discovery.
+## Drug Synthesis Generative AI
+The Generative Artificial Intelligence Software Repository for Drug Synthesis.
