@@ -1,4 +1,4 @@
-## [Original Notebook](https://github.com/lamm-mit/ProteinMechanicsDiffusionDesign/blob/main/notebook_for_colab/pLDM_inference_standalone_colab.ipynb), [Original Paper](https://www.science.org/doi/10.1126/sciadv.adl4000), [Presentation PDF](https://drive.google.com/file/d/1pxL73oXK3Hn434YfERKi2aZ2GQ-HMvyF/view?usp=sharing). 
+## [Original Notebook](https://github.com/lamm-mit/ProteinMechanicsDiffusionDesign/blob/main/notebook_for_colab/pLDM_inference_standalone_colab.ipynb), [Original Paper](https://www.science.org/doi/10.1126/sciadv.adl4000), [Presentation PDF](https://drive.google.com/file/d/1pxL73oXK3Hn434YfERKi2aZ2GQ-HMvyF/view?usp=sharing) 
 
 The following are modifications or improvements to original notebooks. Please refer to the authors' models for the published primary work.
 
