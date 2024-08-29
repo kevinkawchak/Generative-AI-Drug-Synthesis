@@ -14,7 +14,7 @@
   
 <div align="left">
   
-[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbd7120ac769e5fe877b5)
+[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbd7120ac769e5fe877b5), [Seminar](https://www.youtube.com/watch?v=dXlU8ZRcrnw&t=14s)
 
 
 
