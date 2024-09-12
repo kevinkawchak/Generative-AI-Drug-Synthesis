@@ -1,3 +1,30 @@
+
+
+<div align="center">
+  <p>High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs</p> 
+<div align="center">
+
+<div align="center">
+  <p>September 12, 2024</p>
+  <p>Kevin Kawchak</p>
+  <p>CEO ChemicalQDevice</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large Multimodal Models (LMMs) possess the ability to analyze chemical spectra of an organic compound using state of the art conversational AI. These outputs can then be chained together and introduced as a text input for other LLMs or LMMs to predict the compound name. Here, a challenging 15 carbon molecule problem with 13 complex and high dimensional chemical spectra were analyzed as images by unmodified versions of Claude 3.5 Sonnet and OpenAI ChatGPT-4o models. ScholarGPT judged the responses across the 13 spectra with an average score of 9.01/10, and the highest response scores per individual spectra for 3.5 Sonnet or GPT-4o were used as the text-based chain. For Part B, the chain was then combined with two different prompt formats and the molecular formula to 8 different LMMs or LLMs which produced new compound predictions. 3.5 Sonnet had the highest proficiency in utilizing the formula simultaneously with complex data for three identical compound generations across two prompts, but was likely limited by the quality regarding the chain of 13, primarily with data from 6 2D NMR Spectra. 3.5 Sonnet's compound prediction was then further improved in Part C by utilizing manual chained explanations of the spectra by the author to yield what is believed to be the correct structure with stereochemistry to the unknown problem. To the author's best knowledge, this is the first LMM to generate the C15H22O2 drug compound derivative (S)-ibuprofen ethylester using high dimensional data from 13 detailed spectra. The purpose of this study was to utilize cutting edge natural language processing techniques to evaluate an advanced chemical structure consisting of IR, 1H-NMR, 13C-NMR, DEPT-NMR, GCOSY60, GTOCSY, GHMQC, GHMBC, GNOESY, and expanded views of spectra.
+  
+<div align="left">
+  
+[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66e230c912ff75c3a113faee) 
+
+
+
+---
+
+
+
+
 <div align="center">
   <p>LMM Spectrometric Determination of an Organic Compound</p> 
 <div align="center">
