@@ -1,4 +1,27 @@
+<div align="center">
+  <p>Paclitaxel Biosynthesis AI Breakthrough</p> 
+<div align="center">
 
+<div align="center">
+  <p>October 3, 2024</p>
+  <p>Kevin Kawchak</p>
+  <p>CEO ChemicalQDevice</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paclitaxel, C<sub>47</sub>H<sub>51</sub>N<sub>1</sub>O<sub>14</sub>, biosynthesis is an active area of research due to ongoing progress towards more sustainable and environmentally friendly production of the drug compound. Recent literature details the characterization of enzymes that play a role in synthesis, optimization of growth media, and RNA related regulatory mechanisms. The method of PhD students spending excessive time performing literature reviews to discover new findings is obsolete due to faster and high quality state of the art conversational AI. In this study, approximate AI times were obtained regarding how long would it take the fastest human researcher to read, analyze, extract information, and type a high quality 250 word answer; with the fastest time of 1,380 seconds being used as a standard reference. The slowest AI generation in the study was 79.19s by ChatGPT-4o, which was still over 17x faster than the optimal human performance time. Here, a paclitaxel biosynthesis breakthrough was illustrated
+twice using LLMs and LMMs. In the first instance, full length papers were summarized by AI models – with the finding that AI provided more detailed answers across entire papers, generating over 10x longer descriptions and 12x faster times compared to the manuscript author’s methods to summarize abstracts.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The outputs of individual AI generated answers yielded a 10 Paper Summary with 6,322 words, and served as the input for eight separate prompts, which provided valuable insight regarding both emerging and historical views of paclitaxel retrobiosynthesis, engineering microorganisms, as well as top 10 new research recommendations, and top 10 challenges for this area. The second paclitaxel biosynthesis advancement was demonstrated with a speed of 752 seconds for 36 generations compared to the single optimal human response of 1,380 seconds. Top models received an average AI judge score of 9.5 by ChatGPT-4o for Part A; a score of 9.3 by o1-preview, L3.1-405B, and ChatGPT-4o for Part B; and a score of 9.3 by ChatGPT-4o and 3.5 Sonnet, followed by a score of 9.2 for Wiz8x22B for Part C. These superior results have primarily been afforded by OpenAI, Claude.ai, and Meta AI new model releases in late 2024 that have helped to advance the paclitaxel biosynthesis field. The presence of speedups with more detailed answers over optimal human responses is supported by advanced cloud hardware that processes high dimensional and complex data continually to solve combinatorial problems such as those in this study using 15 different prompts across 163 generations.
+  
+<div align="left">
+  
+[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054) 
+
+
+
+---
 
 <div align="center">
   <p>High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs</p> 
