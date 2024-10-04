@@ -16,7 +16,6 @@ twice using LLMs and LMMs. In the first instance, full length papers were summar
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The outputs of individual AI generated answers yielded a 10 Paper Summary with 6,322 words, and served as the input for eight separate prompts, which provided valuable insight regarding both emerging and historical views of paclitaxel retrobiosynthesis, engineering microorganisms, as well as top 10 new research recommendations, and top 10 challenges for this area. The second paclitaxel biosynthesis advancement was demonstrated with a speed of 752 seconds for 36 generations compared to the single optimal human response of 1,380 seconds. Top models received an average AI judge score of 9.5 by ChatGPT-4o for Part A; a score of 9.3 by o1-preview, L3.1-405B, and ChatGPT-4o for Part B; and a score of 9.3 by ChatGPT-4o and 3.5 Sonnet, followed by a score of 9.2 for Wiz8x22B for Part C. These superior results have primarily been afforded by OpenAI, Claude.ai, and Meta AI new model releases in late 2024 that have helped to advance the paclitaxel biosynthesis field. The presence of speedups with more detailed answers over optimal human responses is supported by advanced cloud hardware that processes high dimensional and complex data continually to solve combinatorial problems such as those in this study using 15 different prompts across 163 generations.
   
 <div align="left">
-  
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054) 
 
 
