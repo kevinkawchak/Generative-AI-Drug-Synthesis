@@ -8,3 +8,6 @@
 Due to the inherent complexity of chemical reactions, supply chain of raw materials, and demands for process optimization and automation, additional LLM-RAG workflows will likely be implemented to solve issues related to the availability of FDA approved drugs. Further improvements in generative ai drug discovery to provide more specific excerpts of text and line numbers guiding ai decision processes will likely also extend to the vast chemical space that requires more exploration. Thus, the Human-AI team will be further strengthened through multiple types of language interactions on a larger scale to further promote drug safety and effectiveness.
 
 July 23, 2024
+
+## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
+The Generative Artificial Intelligence Software Repository for Drug Synthesis.
