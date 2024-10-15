@@ -25,3 +25,6 @@ less expensive than used in original papers, and were judged by a Cohere for AI 
 #### Additional [PDF Download](https://drive.google.com/file/d/1WHHZfwdp6X4tDb-uRdHJuO5BOzLy5hhM/view?usp=sharing), [Video Discussion](https://youtu.be/VK4dWeeKKKw)
 
 August 01, 2024
+
+## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
+The Generative Artificial Intelligence Software Repository for Drug Synthesis.
