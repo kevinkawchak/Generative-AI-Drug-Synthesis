@@ -17,7 +17,7 @@ twice using LLMs and LMMs. In the first instance, full length papers were summar
   
 <div align="left">
   
-[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054) 
+[Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054), [Seminar](https://www.youtube.com/watch?v=2ZYDSG_-Iv0)  
 
 
 
