@@ -1,4 +1,32 @@
 <div align="center">
+  <p>mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations</p> 
+<div align="center">
+
+<div align="center">
+  <p>Kevin Kawchak</p>
+  <p>Chief Executive Officer</p>
+  <p>ChemicalQDevice</p>
+  <p>San Diego, CA</p>
+  <p>November 27, 2024</p>
+  <p>kevink@chemicalqdevice.com</p>
+</div>
+
+<div align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bioprocess engineering has incorporated effective AI applications in recent years that consist of traditional approaches to training models on relevant data to then analyze and predict new and unseen data. The missing component has been the ability to process mixed data from an assortment of dissimilar information sources with high contextual awareness to inform the Human-AI team on how LLMs and other authors' methods will further improve performance. Here, real-time web search or document retrieval methods with a max speed multiplier of over 600x by 3.5 Sonnet were obtained vs. the manuscript author regarding monoclonal antibody (mAb) bioprocess engineering kinetics across several models. ChatGPT-4o with an average score of 9/10 was the leader in quality for this task with several detailed reports that were obtained using document search addressing a paper's specific weaknesses being improved with LLMs or two other author's methods. This protocol was applied systematically for each of the other two papers, supported by the other two relevant bioprocess papers. o1-preview's advanced reasoning set a new standard over five other models in processing either 136 extracellular or 101 intracellular metabolite tables, incorporating the analysis of 12 additional paper summaries across two prompts with two table revisions. For extracellular metabolites, o1-preview generated an 18 metabolite table including all metabolite forecasts that were expected to be breakthroughs due to future integration of a LLM or other author's recent methods. The model supported its forecasts with interpretable author citations and quotations for breakthrough metabolites, along with lists of author specific and metabolite specific insights that influenced its conclusions. For intracellular metabolites, o1-preview provided a full 101 metabolite table, matching the number of entries from the original Sukwattananipaat, P., et al. table, including confirmations for each metabolite regarding whether each forecasted value was expected to be a breakthrough. Overall, this work was represented by numerous speed advantages, literature insights to address paper weaknesses, and competent o1-preview in-context table analysis with supporting evidence from leading articles represented by two 9.5/10 scores to lead the first conversational AI mAb bioprocess engineering revolution.
+  
+<div align="left">
+  
+[Manuscript](https://doi.org/10.26434/chemrxiv-2024-jzbj0) 
+
+
+
+---
+
+
+
+
+
+<div align="center">
   <p>Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence</p> 
 <div align="center">
 
@@ -13,11 +41,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Processing high dimensional and complex monoclonal antibody (mAb) bioprocess data in industry is now more efficient due to conversational AI. The human in the loop approach to Large Language Model (LLM) inferencing with document retrieval and chained outputs is a probable benefit to existing biotechnology workflows. Potential risks of using natural language processing are minimized due to the utility of solving problems with vast amounts of structured and unstructured mixed data that can be verified by the Human-AI team. This novel work demonstrates o1-preview, ChatGPT-4o, L3.1-405B, and 3.5 Sonnet models’ fast and stateof-the-art solutions. In specific, o1-preview provided a response to 16 papers 110x faster than the manuscript author’s time after the number of words were set equal. In addition, ChatGPT-4o was 371x faster than an optimal human researcher to examine and provide an estimate regarding dimension reduction or combinatorial optimization for a recent paper by Kao, M., et al. The third LLM speed advantage of 336x by ChatGPT-4o vs. the manuscript author was achieved using monte carlo simulations and markov chain models performance forecasts and a current paper by Konoike, F., et al. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part A featured the individual analysis of 5 recent mAb production papers, which emphasized the proficiency of o1-preview (9.9/10.0), ChatGPT-4o (9.2), and L3.1-405B (9.2) providing a forecast report. Example generations for o1-preview and L3.1-405B typically established connections between using dimension reduction or combinatorial optimization and improving bioprocesses. Part B models generated tables regarding how LLMs can improve numerical data from 5 different papers using monte carlo simulations or markov chain models. An example from ChatGPT-4o (9.0) was substantially more complete, accurate, and convincing than the table provided 3.5 Sonnet (8.0). Part C utilized the report format from Part A combined with the numerical approach from Part B across 6 additional papers, led by o1-preview (9.0) and ChatGPT-4o (8.5). The o1-preview example followed the prompt format well, citing cases of how LLMs will utilize reinforcement learning and bayesian optimization to improve mAb production. The work represents a standard for utilizing a considerable amount of bioprocess data to forecast new results, with the transition into LLMs providing near-real-time production data analysis aided by document retrieval to provide a synergistic effect with existing machine learning techniques.
-  
+
 <div align="left">
+
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/671dc78d1fb27ce124b81d22), [Seminar](https://www.youtube.com/watch?v=h0znvPPgdCw)  
-
 
 
 ---
