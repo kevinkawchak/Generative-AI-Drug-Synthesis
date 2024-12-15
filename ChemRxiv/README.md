@@ -18,7 +18,7 @@
   
 [Manuscript](https://doi.org/10.26434/chemrxiv-2024-jzbj0), [Seminar](https://www.youtube.com/watch?v=KDwJY3BGjEE&t=1s)   
 
-
+Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-jzbj0
 
 ---
 
@@ -46,6 +46,7 @@
 
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/671dc78d1fb27ce124b81d22), [Seminar](https://www.youtube.com/watch?v=h0znvPPgdCw)  
 
+Cite this work. Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-3m7m1
 
 ---
 
@@ -77,7 +78,7 @@
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054), [Seminar](https://www.youtube.com/watch?v=2ZYDSG_-Iv0)  
 
-
+Cite this work. Kawchak K. Paclitaxel Biosynthesis AI Breakthrough. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-pqjd3
 
 ---
 
@@ -99,7 +100,7 @@
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66e230c912ff75c3a113faee), [Seminar](https://www.youtube.com/watch?v=M3f1c0yLWkc&t=4s) 
 
-
+Cite this work. Kawchak K. High Dimensional and Complex Spectrometric Data Analysis of an Organic Compound using Large Multimodal Models and Chained Outputs. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-06gf1 
 
 ---
 
@@ -124,6 +125,7 @@
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66ccbd7120ac769e5fe877b5), [Seminar](https://www.youtube.com/watch?v=dXlU8ZRcrnw&t=14s)
 
+Cite this work. Kawchak K. LMM Spectrometric Determination of an Organic Compound. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-qtnkj
 
 
 ---
@@ -148,6 +150,8 @@
 <div align="left">
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66b88430c9c6a5c07ae26635), [Seminar](https://youtu.be/7YWmHz9QjjM)
+
+Cite this work. Kawchak K. LMM Chemical Research with Document Retrieval. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-p91gm
 
 ## Drug Synthesis Generative AI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13754637.svg)](https://doi.org/10.5281/zenodo.13754637)
 The Generative Artificial Intelligence Software Repository for Drug Production.
