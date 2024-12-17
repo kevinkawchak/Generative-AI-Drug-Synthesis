@@ -18,7 +18,7 @@
   
 [Manuscript](https://doi.org/10.26434/chemrxiv-2024-jzbj0), [Seminar](https://www.youtube.com/watch?v=KDwJY3BGjEE&t=1s)   
 
-Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed.
+Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts using Conversational AI Literature Insight Generations. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-jzbj0 This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-jzbj0
 
 ---
 
@@ -46,7 +46,7 @@ Cite this work. Kawchak K. mAb Bioprocess Engineering In-Context Table Forecasts
 
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/671dc78d1fb27ce124b81d22), [Seminar](https://www.youtube.com/watch?v=h0znvPPgdCw)  
 
-Cite this work. Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed.
+Cite this work. Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancements Using Conversational Artificial Intelligence. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-3m7m1 This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-3m7m1
 
 ---
 
@@ -78,7 +78,7 @@ Cite this work. Kawchak K. Monoclonal Antibody Bioprocess Engineering Advancemen
   
 [Manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/66fe1dc412ff75c3a1412054), [Seminar](https://www.youtube.com/watch?v=2ZYDSG_-Iv0)  
 
-Cite this work. Kawchak K. Paclitaxel Biosynthesis AI Breakthrough. ChemRxiv. 2024; https://doi.org/10.26434/chemrxiv-2024-pqjd3 This content is a preprint and has not been peer-reviewed.
+Cite this work. Kawchak K. Paclitaxel Biosynthesis AI Breakthrough. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-pqjd3 This content is a preprint and has not been peer-reviewed. https://doi.org/10.26434/chemrxiv-2024-pqjd3
 
 ---
 
